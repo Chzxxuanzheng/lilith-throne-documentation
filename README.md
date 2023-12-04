@@ -1,4 +1,4 @@
-#做pr用,无关人士勿动
+# 做pr用,无关人士勿动
 
 源项目仓库:https://github.com/CKRainbow/lilith-throne-documentation/tree/chinese#readme
 
